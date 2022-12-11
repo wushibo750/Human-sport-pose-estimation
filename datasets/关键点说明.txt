@@ -1,0 +1,21 @@
+openpose关键点：
+1、18点模型（mscoco）
+对应位置：
+// {0, “Nose”},
+// {1, “Neck”},
+// {2, “RShoulder”},
+// {3, “RElbow”},
+// {4, “RWrist”},
+// {5, “LShoulder”},
+// {6, “LElbow”},
+// {7, “LWrist”},
+// {8, “RHip”},
+// {9, “RKnee”},
+// {10, “RAnkle”},
+// {11, “LHip”},
+// {12, “LKnee”},
+// {13, “LAnkle”},
+// {14, “REye”},
+// {15, “LEye”},
+// {16, “REar”},
+// {17, “LEar”}
